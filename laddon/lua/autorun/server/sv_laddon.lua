@@ -1,4 +1,4 @@
-include("autorun/sh_myaddon.lua")
+include("autorun/sh_laddon.lua")
 
 local myName = "bob"
 print(myName)
